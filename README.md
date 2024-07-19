@@ -47,7 +47,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any questions or feedback, please reach out to me at [your-email@example.com](mailto:kaakanksha2310@gmail.com).
+For any questions or feedback, please reach out to me at [mailto:kaakanksha2310@gmail.com].
 
 
 ![preview img](/preview.png)
