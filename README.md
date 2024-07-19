@@ -21,7 +21,7 @@ This project features a responsive coffee shop website design. The design emphas
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/coffee-shop-website.git
+    git clone [https://github.com/your-username/coffee-shop-website.git]
     ```
 
 2. Navigate to the project directory:
@@ -47,7 +47,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any questions or feedback, please reach out to me at [your-email@example.com](mailto:your-email@example.com).
+For any questions or feedback, please reach out to me at [your-email@example.com](mailto:kaakanksha2310@gmail.com).
 
 
 ![preview img](/preview.png)
